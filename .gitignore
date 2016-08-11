@@ -1,9 +1,0 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-
-# Compiled files, created by Jekyll #
-######################
-.sass-cache
-_site/
